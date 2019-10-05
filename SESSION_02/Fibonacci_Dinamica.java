@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 import com.google.common.base.Stopwatch;
 
-// ----- ALGORITMO FIBONACCI USANDO PROGRAMACI”N DIN¡MICA ----- //
+// ----- ALGORITMO FIBONACCI USANDO PROGRAMACI√ìN DIN√ÅMICA ----- //
 
 public class Fibonacci_Dinamica {
 	
