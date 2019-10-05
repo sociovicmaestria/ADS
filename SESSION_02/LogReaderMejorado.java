@@ -17,7 +17,7 @@ public class LogReaderMejorado implements Iterable<LogLine> {
         this.sizeLogLines = sizeLogLines;
         this.sizeUniqueIps = sizeUniqueIps;
         
-      //Aquí se hace la modificación del ArrayList por un HashSet;
+      //AquÃ­ se hace la modificaciÃ³n del ArrayList por un HashSet;
         this.uniqueIps = (Collection<String>) new HashSet<String>();
         
     }
